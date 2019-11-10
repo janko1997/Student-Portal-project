@@ -1,0 +1,75 @@
+
+h4, h2{
+	color: #575ed8;
+	text-align: left;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+
+#forma{
+	
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+
+#btn_chat{
+
+display: inline-block;
+background:#575ed8;
+border: none;
+color: white;
+height: 50px;
+width: 200px;
+font-size: 20px;
+}
+
+#add{
+	display: inline-block;
+	border: none;
+	color: white;
+	background-color: #575ed8;
+	height: 50px;
+	width: 200px;
+	font-size: 20px;
+
+}
+
+.module{
+  width:  500px;
+  height: 50px;
+  background: #E0FFFF;
+  font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+#registeredModules{
+
+font-family: Arial, Helvetica, sans-serif;
+font-size: 22px;
+color: blue;
+
+}
+
+.edit{
+  
+  height: 25px;
+  width: 75px;
+  background: green;
+  font-size: 13px;
+  font-weight: bold;
+  }
+
+.delete{
+  height: 25px;
+  width: 75px;
+  background: red;
+  font-size: 13px;
+  font-weight: bold;
+  
+}
+
+
+
